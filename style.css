@@ -88,10 +88,12 @@ h2 {
 
 .ingredientes li::marker {
     font-size: 12px;
-    color #854632
+    color: #854632;
 }
 
 hr {
     border: 1px solid #e3ddd7;
     margin-block: 32px;
 }
+
+.modo
